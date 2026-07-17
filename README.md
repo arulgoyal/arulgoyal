@@ -103,10 +103,6 @@ and the queue that never drops a message.
 
 <img height="165" src="https://arulgoyal-readme-stats.vercel.app/api/top-langs/?username=arulgoyal&layout=compact&theme=tokyonight&hide_border=true&title_color=7AA2F7&bg_color=1A1B27&langs_count=8" alt="top langs"/>
 
-<br/><br/>
-
-<img src="https://arulgoyal-trophy.vercel.app/?username=arulgoyal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
-
 </div>
 
 <br/>
