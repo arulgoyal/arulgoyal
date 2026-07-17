@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Arul%20Goyal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20·%20Payments%20%26%20Reconciliation&descAlignY=57&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Arul%20Goyal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20·%20Payments%20%26amp%3B%20Reconciliation&descAlignY=57&descSize=18)
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=820&lines=I+build+systems+that+move+money+reliably.;Queue-driven+retries+%C2%B7+DLQs+%C2%B7+reconciliation.;NestJS+%C2%B7+TypeScript+%C2%B7+Postgres+%C2%B7+Redis+%C2%B7+BullMQ.;Removing+manual+ops+from+money+movement.)](https://github.com/arulgoyal)
