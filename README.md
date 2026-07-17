@@ -98,14 +98,14 @@ and the queue that never drops a message.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arulgoyal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7AA2F7&icon_color=BB9AF7&bg_color=1A1B27" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=arulgoyal&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="streak"/>
+<img height="165" src="https://arulgoyal-readme-stats.vercel.app/api?username=arulgoyal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7AA2F7&icon_color=BB9AF7&bg_color=1A1B27" alt="stats"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=arulgoyal&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="streak"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arulgoyal&layout=compact&theme=tokyonight&hide_border=true&title_color=7AA2F7&bg_color=1A1B27&langs_count=8" alt="top langs"/>
+<img height="165" src="https://arulgoyal-readme-stats.vercel.app/api/top-langs/?username=arulgoyal&layout=compact&theme=tokyonight&hide_border=true&title_color=7AA2F7&bg_color=1A1B27&langs_count=8" alt="top langs"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=arulgoyal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
+<img src="https://arulgoyal-trophy.vercel.app/?username=arulgoyal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
 
 </div>
 
