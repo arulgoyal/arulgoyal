@@ -59,25 +59,25 @@
   <circle cx="40" cy="42" r="6" fill="#ff5f56"/>
   <circle cx="62" cy="42" r="6" fill="#ffbd2e"/>
   <circle cx="84" cy="42" r="6" fill="#27c93f"/>
-  <text x="112" y="47" class="mono" font-size="14" fill="#565f89">arul-goyal.service — production</text>
+  <text x="112" y="47" class="mono" font-size="14" fill="#565f89">arul@dev:~ — always in beta</text>
 
   <!-- operational status, top-right -->
-  <circle cx="790" cy="42" r="5" fill="#9ece6a">
+  <circle cx="816" cy="42" r="5" fill="#9ece6a">
     <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
     <animate attributeName="r" values="5;6.5;5" dur="1.6s" repeatCount="indefinite"/>
   </circle>
-  <text x="804" y="47" class="mono" font-size="13" fill="#9ece6a" letter-spacing="1.6">ALL SYSTEMS OPERATIONAL</text>
+  <text x="830" y="47" class="mono" font-size="13" fill="#9ece6a" letter-spacing="1.6">ALWAYS SHIPPING</text>
 
   <!-- name -->
   <text x="44" y="136" class="sans" font-size="68" font-weight="800" fill="url(#name)" filter="url(#glow)">Arul Goyal</text>
   <rect x="48" y="154" width="440" height="3" rx="1.5" fill="url(#rule)"/>
 
   <!-- subtitle -->
-  <text x="48" y="190" class="sans" font-size="21" fill="#c0caf5">Backend Engineer <tspan fill="#565f89">·</tspan> Payments <tspan fill="#565f89">&amp;</tspan> Reconciliation <tspan fill="#565f89">·</tspan> Rupeek</text>
+  <text x="48" y="190" class="sans" font-size="21" fill="#c0caf5">Software Engineer <tspan fill="#565f89">·</tspan> language-agnostic <tspan fill="#565f89">·</tspan> currently shipping fintech <tspan fill="#565f89">@</tspan> Rupeek</text>
 
   <!-- vitals / ECG heartbeat -->
   <g transform="translate(660,96)">
-    <text x="0" y="-6" class="mono" font-size="12" fill="#565f89" letter-spacing="1">vitals — healthy</text>
+    <text x="0" y="-6" class="mono" font-size="12" fill="#565f89" letter-spacing="1">curiosity — off the charts</text>
     <path d="M0,22 H58 l8,-16 l9,32 l11,-44 l9,46 l8,-18 H150 l8,-14 l9,28 l11,-40 l9,42 l8,-16 H300"
           fill="none" stroke="#9ece6a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"
           stroke-dasharray="420" stroke-dashoffset="420">
@@ -89,34 +89,34 @@
   <g class="mono" font-size="12.5">
     <g opacity="0">
       <animate attributeName="opacity" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
-      <rect x="46" y="212" width="188" height="30" rx="15" fill="#1f2335" stroke="#2e3450"/>
-      <circle cx="64" cy="227" r="4" fill="#9ece6a"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
-      <text x="76" y="231.5" fill="#a9b1d6">Δ = 0.00 · reconciled</text>
+      <rect x="46" y="212" width="196" height="30" rx="15" fill="#1f2335" stroke="#2e3450"/>
+      <circle cx="64" cy="227" r="4" fill="#7aa2f7"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+      <text x="76" y="231.5" fill="#a9b1d6">polyglot: TS·Java·Py</text>
     </g>
     <g opacity="0">
       <animate attributeName="opacity" to="1" dur="0.5s" begin="0.9s" fill="freeze"/>
-      <rect x="246" y="212" width="150" height="30" rx="15" fill="#1f2335" stroke="#2e3450"/>
-      <circle cx="264" cy="227" r="4" fill="#7aa2f7"><animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="0.3s" repeatCount="indefinite"/></circle>
-      <text x="276" y="231.5" fill="#a9b1d6">uptime 99.99%</text>
+      <rect x="254" y="212" width="142" height="30" rx="15" fill="#1f2335" stroke="#2e3450"/>
+      <circle cx="272" cy="227" r="4" fill="#9ece6a"><animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="0.3s" repeatCount="indefinite"/></circle>
+      <text x="284" y="231.5" fill="#a9b1d6">0 → 1 builder</text>
     </g>
     <g opacity="0">
       <animate attributeName="opacity" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>
-      <rect x="408" y="212" width="140" height="30" rx="15" fill="#1f2335" stroke="#2e3450"/>
+      <rect x="408" y="212" width="252" height="30" rx="15" fill="#1f2335" stroke="#2e3450"/>
       <circle cx="426" cy="227" r="4" fill="#bb9af7"><animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="0.6s" repeatCount="indefinite"/></circle>
-      <text x="438" y="231.5" fill="#a9b1d6">dlq drained ↺</text>
+      <text x="438" y="231.5" fill="#a9b1d6">learning: distributed systems</text>
     </g>
     <g opacity="0">
       <animate attributeName="opacity" to="1" dur="0.5s" begin="1.5s" fill="freeze"/>
-      <rect x="560" y="212" width="172" height="30" rx="15" fill="#1f2335" stroke="#2e3450"/>
-      <circle cx="578" cy="227" r="4" fill="#e0af68"><animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="0.9s" repeatCount="indefinite"/></circle>
-      <text x="590" y="231.5" fill="#a9b1d6">3am retries: armed</text>
+      <rect x="672" y="212" width="200" height="30" rx="15" fill="#1f2335" stroke="#2e3450"/>
+      <circle cx="690" cy="227" r="4" fill="#e0af68"><animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="0.9s" repeatCount="indefinite"/></circle>
+      <text x="702" y="231.5" fill="#a9b1d6">status: always in beta</text>
     </g>
   </g>
 
   <!-- telemetry typing line -->
   <text x="48" y="288" class="mono" font-size="15" fill="#7aa2f7">$</text>
   <g clip-path="url(#type)">
-    <text x="66" y="288" class="mono" font-size="15" fill="#a9b1d6">tail -f prod | grep settled — every rupee accounted for</text>
+    <text x="66" y="288" class="mono" font-size="15" fill="#a9b1d6">new stack? give me a weekend — fundamentals transfer</text>
   </g>
   <rect x="66" y="275" width="9" height="16" fill="#9ece6a">
     <animate attributeName="x" values="66;66;562" keyTimes="0;0.12;1" dur="3s" begin="0.5s" fill="freeze"/>

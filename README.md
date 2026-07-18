@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/arulgoyal/arulgoyal/main/assets/hero.svg" alt="Arul Goyal — Backend Engineer · Payments & Reconciliation · all systems operational" width="100%"/>
 </a>
 
-<img src="https://raw.githubusercontent.com/arulgoyal/arulgoyal/main/assets/pipeline.svg" alt="Live money-movement pipeline — intents flow through queue and processor into a settled ledger; failures drop to the dead-letter queue and retry back automatically" width="100%"/>
+<img src="https://raw.githubusercontent.com/arulgoyal/arulgoyal/main/assets/loop.svg" alt="The learning loop — explore, build, break, learn, ship, repeat forever. Each loop gets faster." width="100%"/>
 
 <!-- contact strip -->
 <a href="mailto:arulgoyal6@gmail.com"><img src="https://img.shields.io/badge/email-arulgoyal6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="email"/></a>
@@ -24,22 +24,24 @@
 
 ```ts
 const arul = {
-  role:      "SDE @ Rupeek · Payments & Reconciliation",
-  focus:     ["reliability", "money movement", "removing manual ops"],
-  stack:     ["NestJS", "TypeScript", "PostgreSQL", "Redis", "BullMQ", "AWS"],
-  alsoSpeaks:["Java / Spring Boot", "React / Next.js", "Python"],
-  philosophy:"the retry that fires at 3am matters more than the happy path",
+  role:       "Software Engineer @ Rupeek",
+  currently:  "pointing my skills at fintech — tomorrow, whatever's interesting",
+  superpower: "picking up any stack fast — fundamentals transfer",
+  inProd:     ["TypeScript/NestJS", "Java/Spring Boot", "Python", "React/Next.js"],
+  learning:   ["distributed systems", "exactly-once-ish messaging", "system design"],
+  philosophy: "languages are syntax; engineering is the skill",
 };
 ```
 
-I'm a backend engineer who likes the *unglamorous* parts of software — the retry that fires at 3 a.m.,
-the reconciliation job that catches the one rupee that didn't match, and the queue that never drops
-a message.
+I'm **language-agnostic by conviction** — I've shipped production code in TypeScript, Java, and Python,
+across backends, queues, dashboards, and automations. Right now I'm pointing that at **fintech**
+(moving money reliably at Rupeek); before that it was building products **0 → 1**. Give me an
+unfamiliar stack and a weekend — the fundamentals come with me.
 
-- 🏦 &nbsp;SDE at **Rupeek**, on the **Payments & Reconciliation** team — multi-lender bank integrations, settlement, and fee flows.
-- ♻️ &nbsp;I build **queue-driven retry systems** (BullMQ / SQS), **dead-letter-queue recovery**, and **reconciliation** pipelines that take humans out of the loop.
-- 🧱 &nbsp;Home base is **NestJS · TypeScript · PostgreSQL · Redis** — with **Spring Boot** and **React / Next.js** when the job calls for it.
-- 🎓 &nbsp;CS @ **VIT** (CGPA 8.67). Building **Cashroom**, a production-grade lending backend, in the open.
+- 🚀 &nbsp;**Range over rut:** backend services, queue systems, React dashboards, WhatsApp bots, doc-gen pipelines — whatever the problem needs.
+- 🧠 &nbsp;**Learn in public, ship for real:** new vendor API? Learned it and had it live in **10 days**. New framework? That's a weekend.
+- 🏦 &nbsp;**Day job:** payments infra at **Rupeek** — bank integrations, reconciliation, retry systems that don't page humans.
+- 🎓 &nbsp;CS @ **VIT** (CGPA 8.67). Currently building **Cashroom**, a lending backend, in the open — to go deeper on queues + state machines.
 
 <br/>
 
@@ -47,7 +49,7 @@ a message.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arulgoyal/arulgoyal/main/assets/impact.svg" alt="Impact: 4 lending partners live · 0 manual re-pushes per day · 15+ production features shipped · ~10 hours of toil deleted per week" width="100%"/>
+<img src="https://raw.githubusercontent.com/arulgoyal/arulgoyal/main/assets/impact.svg" alt="Impact: 4+ languages in production · 0 to 1 products built from scratch · 15+ production features shipped · 10 days from new vendor API to live" width="100%"/>
 
 </div>
 
@@ -69,7 +71,7 @@ a message.
 
 <br/>
 
-## 🧰 Runtime dependencies
+## 🧰 The toolbox
 
 <div align="center">
 
@@ -111,14 +113,14 @@ a message.
 <br/>
 
 <details>
-<summary><b>🧠 &nbsp;How I think about backend work</b></summary>
+<summary><b>🧠 &nbsp;How I think about engineering</b></summary>
 <br/>
 
-- **Reliability is a feature.** Idempotency keys, retries with backoff, and DLQs aren't nice-to-haves — they're the product when you're moving money.
-- **Reconciliation is truth.** Pick a source of truth (Razorpay, the bank, the ledger) and make everything else agree with it — automatically.
-- **Take humans out of the retry loop.** If ops has to manually re-push failed transfers every morning, the system isn't done.
-- **Money is `bigint`, in the smallest unit.** Never a float. Ever.
-- **Fix the boring bugs.** Visibility-timeout expiry, async/await + callback mixing, duplicate captures — these quietly cost the most.
+- **Fundamentals transfer; frameworks are rented.** Queues, transactions, idempotency, backpressure — learn those once and every stack is just new syntax.
+- **Unfamiliar ≠ blocked.** New language, new vendor, new domain — read the docs, build the smallest real thing, break it on purpose, ship.
+- **Reliability is a feature.** Retries with backoff and DLQs aren't nice-to-haves — they're the product when the system matters.
+- **Take humans out of the loop.** If someone has to manually fix the same thing every morning, the system isn't done.
+- **Fix the boring bugs.** Visibility-timeout expiry, async/await + callback mixing, race conditions — these quietly cost the most.
 
 </details>
 

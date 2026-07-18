@@ -6,7 +6,7 @@
   </defs>
 
   <rect x="8" y="8" width="984" height="184" rx="20" fill="#16161e" stroke="#2e3450" stroke-width="1.5"/>
-  <text x="42" y="44" class="mono" font-size="14" fill="#a9b1d6" letter-spacing="1">$ npm ls --prod <tspan fill="#565f89"># runtime dependencies</tspan></text>
+  <text x="42" y="44" class="mono" font-size="14" fill="#a9b1d6" letter-spacing="1">$ ls ~/toolbox <tspan fill="#565f89"># language-agnostic — right tool for the job</tspan></text>
 
   <!-- row 1 : core -->
   <g class="mono" font-size="13">
