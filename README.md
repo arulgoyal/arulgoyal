@@ -12,8 +12,7 @@
 
 <!-- contact strip -->
 <a href="mailto:arulgoyal6@gmail.com"><img src="https://img.shields.io/badge/email-arulgoyal6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="email"/></a>
-<!-- TODO: replace with your real LinkedIn slug -->
-<a href="https://linkedin.com/in/arul-goyal"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="linkedin"/></a>
+<a href="https://linkedin.com/in/arulgoyal"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="linkedin"/></a>
 <img src="https://img.shields.io/badge/Bengaluru,%20IN-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=7AA2F7" alt="location"/>
 <img src="https://komarev.com/ghpvc/?username=arulgoyal&label=uptime%20checks&color=2ea043&style=for-the-badge" alt="uptime checks"/>
 
