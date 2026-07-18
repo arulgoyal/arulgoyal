@@ -1,23 +1,25 @@
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--   Custom hand-authored animated header (assets/header.svg)        -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--  Hand-authored animated SVG suite lives in /assets — no templates    -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <a href="https://github.com/arulgoyal">
-  <img src="https://raw.githubusercontent.com/arulgoyal/arulgoyal/main/assets/header.svg" alt="Arul Goyal — Backend Engineer · Payments & Reconciliation · all systems operational" width="100%"/>
+  <img src="https://raw.githubusercontent.com/arulgoyal/arulgoyal/main/assets/hero.svg" alt="Arul Goyal — Backend Engineer · Payments & Reconciliation · all systems operational" width="100%"/>
 </a>
 
-<!-- status / contact strip -->
+<img src="https://raw.githubusercontent.com/arulgoyal/arulgoyal/main/assets/pipeline.svg" alt="Live money-movement pipeline — intents flow through queue and processor into a settled ledger; failures drop to the dead-letter queue and retry back automatically" width="100%"/>
+
+<!-- contact strip -->
 <a href="mailto:arulgoyal6@gmail.com"><img src="https://img.shields.io/badge/email-arulgoyal6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="email"/></a>
 <!-- TODO: replace with your real LinkedIn slug -->
-<a href="https://linkedin.com/in/arulgoyal"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="linkedin"/></a>
-<img src="https://img.shields.io/badge/region-Bengaluru,%20IN-BB9AF7?style=for-the-badge&labelColor=161b22" alt="region"/>
+<a href="https://linkedin.com/in/arul-goyal"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="linkedin"/></a>
+<img src="https://img.shields.io/badge/Bengaluru,%20IN-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=7AA2F7" alt="location"/>
 <img src="https://komarev.com/ghpvc/?username=arulgoyal&label=uptime%20checks&color=2ea043&style=for-the-badge" alt="uptime checks"/>
 
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<br/>
 
 ## 👋 whoami
 
@@ -42,53 +44,43 @@ a message.
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech I reach for
+## 📈 Impact — measured, not vibes
 
 <div align="center">
 
-**Languages**
+<img src="https://raw.githubusercontent.com/arulgoyal/arulgoyal/main/assets/impact.svg" alt="Impact: 4 lending partners live · 0 manual re-pushes per day · 15+ production features shipped · ~10 hours of toil deleted per week" width="100%"/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+</div>
 
-**Backend & Frameworks**
+<details>
+<summary><b>🔎 &nbsp;the receipts &nbsp;(click to expand)</b></summary>
+<br/>
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+| 🎯 | What I shipped |
+|----|----------------|
+| **4th** | Onboarded **DCB** as the 4th lending partner across SIB, Federal & Axis — disbursal, settlement & fee flows |
+| **3** | Core gold-loan lifecycle ops built end-to-end: **repledge, part-release, delinking** — keeping balances, collateral & ledger consistent |
+| **0 → 1** | Stood up the **Personal Loans** backend from scratch — doc-gen APIs, UPI mandate workflows, encrypted delivery |
+| **15+** | Production features shipped as an intern (incl. DigiTap PAN verification in a 10-day turnaround) |
+| **~10 hrs/wk** | Saved by a WhatsApp automation |
+| **4,000+** | Leads handled by a Sales Lead Dashboard — search, filtering, bulk ops; ticket creation *5 min → instant* |
+| **DLQ** | Reconciliation + dead-letter-queue retry that auto-recovers stuck transfers — eliminated the BizOps team's daily manual re-push |
 
-**Data & Messaging**
+</details>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-EF4444?style=for-the-badge&logo=redis&logoColor=white)
-![Amazon SQS](https://img.shields.io/badge/AWS%20SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
-![Amazon SNS](https://img.shields.io/badge/AWS%20SNS-E7157B?style=for-the-badge&logo=amazonsns&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+<br/>
 
-**Frontend & Tooling**
+## 🧰 Runtime dependencies
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arulgoyal/arulgoyal/main/assets/stack.svg" alt="Stack: TypeScript, NestJS, Node.js, PostgreSQL, Redis, BullMQ, AWS SQS/SNS/S3, TypeORM, Docker, Spring Boot, Java, React, Next.js, Tailwind, Python, SQL, C++, Git" width="100%"/>
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub, in numbers
+## 📊 Telemetry
 
 <div align="center">
 
@@ -101,9 +93,7 @@ a message.
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🚀 What I'm building
+## 🚧 Currently deploying
 
 > ### 🪙 [Cashroom](https://github.com/arulgoyal/cashroom) — *Student Lending Platform*
 > A production-grade lending backend, built from scratch and in the open.
@@ -120,24 +110,6 @@ a message.
 > ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<details>
-<summary><b>📈 &nbsp;Impact, by the numbers &nbsp;(click to expand)</b></summary>
-<br/>
-
-| 🎯 | What I shipped |
-|----|----------------|
-| **4th** | Onboarded **DCB** as the 4th lending partner across SIB, Federal & Axis — disbursal, settlement & fee flows |
-| **3** | Core gold-loan lifecycle ops built end-to-end: **repledge, part-release, delinking** — keeping balances, collateral & ledger consistent |
-| **0 → 1** | Stood up the **Personal Loans** backend from scratch — doc-gen APIs, UPI mandate workflows, encrypted delivery |
-| **15+** | Production features shipped as an intern (incl. DigiTap PAN verification in a 10-day turnaround) |
-| **~10 hrs/wk** | Saved by a WhatsApp automation |
-| **4,000+** | Leads handled by a Sales Lead Dashboard — search, filtering, bulk ops; ticket creation *5 min → instant* |
-| **DLQ** | Reconciliation + dead-letter-queue retry that auto-recovers stuck transfers — eliminated the BizOps team's daily manual re-push |
-
-</details>
 
 <details>
 <summary><b>🧠 &nbsp;How I think about backend work</b></summary>
@@ -163,29 +135,30 @@ a message.
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 📉 Contribution graph
+## 📉 Throughput
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arulgoyal&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=BB9AF7&point=FFFFFF&area=true)](https://github.com/arulgoyal)
 
-<!-- contribution snake -->
+<!-- queue drain 🐍 -->
 ![snake](https://raw.githubusercontent.com/arulgoyal/arulgoyal/output/snake.svg)
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+```console
+$ arul --status
+● all systems operational
+$ echo $?
+0
+```
 
-*Thanks for stopping by — let's build something reliable.* ⚡
+*Thanks for checking the status page — let's ship something reliable.* ⚡
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer)
 
 </div>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" fill="none" role="img" aria-label="Runtime dependencies: TypeScript, NestJS, Node.js, PostgreSQL, Redis, BullMQ, AWS SQS, AWS SNS, AWS S3, TypeORM, Docker, Spring Boot, Java, React, Next.js, Tailwind, Python, SQL, C++, Git.">
+  <defs>
+    <style>
+      .mono{font-family:'JetBrains Mono','SF Mono','Cascadia Code',ui-monospace,Consolas,monospace;}
+    </style>
+  </defs>
+
+  <rect x="8" y="8" width="984" height="184" rx="20" fill="#16161e" stroke="#2e3450" stroke-width="1.5"/>
+  <text x="42" y="44" class="mono" font-size="14" fill="#a9b1d6" letter-spacing="1">$ npm ls --prod <tspan fill="#565f89"># runtime dependencies</tspan></text>
+
+  <!-- row 1 : core -->
+  <g class="mono" font-size="13">
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.15s" fill="freeze"/>
+      <rect x="192" y="64" width="114" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="206" cy="78" r="4" fill="#3178c6"/><text x="216" y="82.5" fill="#c0caf5">TypeScript</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.25s" fill="freeze"/>
+      <rect x="318" y="64" width="82" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="332" cy="78" r="4" fill="#e0234e"/><text x="342" y="82.5" fill="#c0caf5">NestJS</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.35s" fill="freeze"/>
+      <rect x="412" y="64" width="90" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="426" cy="78" r="4" fill="#339933"/><text x="436" y="82.5" fill="#c0caf5">Node.js</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.45s" fill="freeze"/>
+      <rect x="514" y="64" width="114" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="528" cy="78" r="4" fill="#4169e1"/><text x="538" y="82.5" fill="#c0caf5">PostgreSQL</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.55s" fill="freeze"/>
+      <rect x="640" y="64" width="74" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="654" cy="78" r="4" fill="#dc382d"/><text x="664" y="82.5" fill="#c0caf5">Redis</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.65s" fill="freeze"/>
+      <rect x="726" y="64" width="82" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="740" cy="78" r="4" fill="#ef4444"/><text x="750" y="82.5" fill="#c0caf5">BullMQ</text></g>
+  </g>
+
+  <!-- row 2 : infra -->
+  <g class="mono" font-size="13">
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.75s" fill="freeze"/>
+      <rect x="153" y="104" width="90" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="167" cy="118" r="4" fill="#ff4f8b"/><text x="177" y="122.5" fill="#c0caf5">AWS SQS</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.85s" fill="freeze"/>
+      <rect x="255" y="104" width="90" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="269" cy="118" r="4" fill="#e7157b"/><text x="279" y="122.5" fill="#c0caf5">AWS SNS</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.95s" fill="freeze"/>
+      <rect x="357" y="104" width="82" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="371" cy="118" r="4" fill="#569a31"/><text x="381" y="122.5" fill="#c0caf5">AWS S3</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.05s" fill="freeze"/>
+      <rect x="451" y="104" width="90" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="465" cy="118" r="4" fill="#fe0803"/><text x="475" y="122.5" fill="#c0caf5">TypeORM</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.15s" fill="freeze"/>
+      <rect x="553" y="104" width="82" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="567" cy="118" r="4" fill="#2496ed"/><text x="577" y="122.5" fill="#c0caf5">Docker</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.25s" fill="freeze"/>
+      <rect x="647" y="104" width="122" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="661" cy="118" r="4" fill="#6db33f"/><text x="671" y="122.5" fill="#c0caf5">Spring Boot</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.35s" fill="freeze"/>
+      <rect x="781" y="104" width="66" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="795" cy="118" r="4" fill="#ed8b00"/><text x="805" y="122.5" fill="#c0caf5">Java</text></g>
+  </g>
+
+  <!-- row 3 : plus -->
+  <g class="mono" font-size="13">
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.45s" fill="freeze"/>
+      <rect x="205" y="144" width="74" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="219" cy="158" r="4" fill="#61dafb"/><text x="229" y="162.5" fill="#c0caf5">React</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.55s" fill="freeze"/>
+      <rect x="291" y="144" width="90" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="305" cy="158" r="4" fill="#c0caf5"/><text x="315" y="162.5" fill="#c0caf5">Next.js</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.65s" fill="freeze"/>
+      <rect x="393" y="144" width="98" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="407" cy="158" r="4" fill="#06b6d4"/><text x="417" y="162.5" fill="#c0caf5">Tailwind</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.75s" fill="freeze"/>
+      <rect x="503" y="144" width="82" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="517" cy="158" r="4" fill="#3776ab"/><text x="527" y="162.5" fill="#c0caf5">Python</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.85s" fill="freeze"/>
+      <rect x="597" y="144" width="58" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="611" cy="158" r="4" fill="#336791"/><text x="621" y="162.5" fill="#c0caf5">SQL</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.95s" fill="freeze"/>
+      <rect x="667" y="144" width="58" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="681" cy="158" r="4" fill="#00599c"/><text x="691" y="162.5" fill="#c0caf5">C++</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="2.05s" fill="freeze"/>
+      <rect x="737" y="144" width="58" height="28" rx="14" fill="#1f2335" stroke="#2e3450"/><circle cx="751" cy="158" r="4" fill="#f05032"/><text x="761" y="162.5" fill="#c0caf5">Git</text></g>
+  </g>
+</svg>
